@@ -14,6 +14,5 @@ fun main() {
     print(",$c")
     a = b
     b = c
-    
 }    
 }
