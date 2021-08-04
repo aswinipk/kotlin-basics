@@ -2,7 +2,7 @@
 
 fun main(){
     
-    // write your code here
+   // write your code here
    val x: Int? = null
    println(x?: 0.0)
 }
