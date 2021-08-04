@@ -3,6 +3,7 @@
 data class Student(val name: String, val rollNumber: Int, val percentageMarks: Double)
 
 fun main() {
+   
    val studentList = mutableListOf<Student>()
    studentList.add(Student("Cristina", 1290, 78.5))
    studentList.add(Student("Mark", 1291, 88.25))
