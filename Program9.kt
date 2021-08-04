@@ -1,10 +1,10 @@
 // Create a list which contains math function operators (+, -, *, /) as characters. Iterate through this list and pass two variables along with the list item (operator) to a function and perform all the math functions on them. Perform the operation corresponding to the character encountered by the iterator.
-Given:
-Index of + is 0
-Index of - is 1
-Index of * is 2
-Index of / is 3
-In case of division check if the divisor is 0 or not.
+//Given:
+//Index of + is 0
+//Index of - is 1
+//Index of * is 2
+//Index of / is 3
+//In case of division check if the divisor is 0 or not.
 
 fun main() {
     val operatorList = listOf('+', '-', '*', '/')
