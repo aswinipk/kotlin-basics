@@ -1,3 +1,3 @@
 # kotlin-basics
 
-Kotlin basics done during Internshala Training
+Kotlin basics done during Internshala Training Android App Development
