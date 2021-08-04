@@ -8,5 +8,4 @@ fun main() {
         fact *= i
     }
     println(fact)
-    
-}
+ }
