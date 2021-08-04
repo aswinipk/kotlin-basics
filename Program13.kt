@@ -11,7 +11,6 @@ class Laptop {
     }
 }
 
-
 fun main(){
 
     // Create object of class here    
