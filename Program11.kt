@@ -7,5 +7,4 @@ fun main(){
     myString = null
     println(myString?.length)
     println(myString!!.length)
-   
-}
+ }
