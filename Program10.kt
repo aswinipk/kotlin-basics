@@ -2,7 +2,7 @@
 
 fun main(){
     
-    // write your code here
+   // write your code here
    var mylist = mutableListOf(1,null,2,4,null,6,8,10,null)
    mylist.add(7, 12)
    println(mylist.filterNotNull())
