@@ -3,16 +3,19 @@
 fun main() {
     
     // write your code here
+    //for
     for(i in 100 downTo 1 step 2){
         println(i)
     }
     
+    //while
     var j = 100
     while(j >= 1){
         println(j)
         j-=2
     }
     
+    //doWhile
     var k = 100
     do{
         println(k)
